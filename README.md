@@ -1,3 +1,3 @@
-# neural-networks-lab1
+# neural-networks
 
 Ψυχραιμία.
